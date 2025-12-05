@@ -1,0 +1,7 @@
+{
+    "require": {
+        "intervention/image": "^3.11",
+        "symfony/http-foundation": "^7.3",
+        "ext-gd": "*"
+    }
+}
